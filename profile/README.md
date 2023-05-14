@@ -7,7 +7,7 @@
 </head>
 <body>
   <p align="center">
-    <image src="/images/SUSTAINA-OP.jpg" width="640px" align="center">
+    <image src="./images/SUSTAINA-OP.jpg" width="640px" align="center">
   </P>
   <h1>
     Welcome to the SUSTAINA-OP<sup>TM</sup> open source community!
