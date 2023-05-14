@@ -7,7 +7,7 @@
 </head>
 <body>
   <p align="center">
-    <image src="../profile/images/SUSTAINA-OP.jpg" width="640px" align="center">
+    <image src="https://github.com/SUSTAINA-OP/.github/assets/53966390/7b5091e7-2190-424d-ae3a-13d850ef4622" width="640px" align="center">
   </P>
   <h1>
     Welcome to the SUSTAINA-OP<sup>TM</sup> open source community!
