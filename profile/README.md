@@ -51,6 +51,9 @@
   <p>
     <a href="https://github.com/SUSTAINA-OP/USB-to-Quad-RS-485-Conv-Module">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-to-Quad-RS-485-Conv-Module" />
+    </a>  
+    <a href="https://github.com/SUSTAINA-OP/Power-Monitor-Module">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Power-Monitor-Module" />
     </a>
     <a href="https://github.com/SUSTAINA-OP/USB-HID-Control-Switches-Module">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-HID-Control-Switches-Module" />
@@ -103,14 +106,28 @@
     SUSTAINA-OP<sup>TM</sup> is a robot that incorporates the know-how accumulated by past CIT Brains members participating in the RoboCup Humanoid League. Many CIT Brains members cooperated with us in the actual building of the robots. We also referred to many open-source hardware in designing and developing the robot. We would like to thank these people.
   </P>
   <h2>
+    License Information
+  </h2>
+  <p>
+    Please check the license for each repository before use.
+  </p>
+  <h3>
+    Request
+  </h3>
+  <p>
+    SUSTAINA-OP<sup>TM</sup> is a hardware platform humanoid robot whose design data, etc. are open-sourced as much as possible to advance the field of robotics, such as RoboCup Humanoid League.<br>
+    Therefore, in addition to the license When publishing artifacts using this platform, We would like to request to clearly state that this platform has been used.<br>
+    Also, We would like to hope that the artifacts will also be released as open source for the advancement of robotics.
+  </p>
+  <h2>
     Further More
   </h2>
   <p>
     <ul>
-        <li><a href="https://citbrains.studio.site/en">CIT Brains website</a></li>
-        <li><a href="https://github.com/citbrains">CIT Brains GitHub</a></li>
-        <li><a href="https://www.robocup.org/">RoboCup Federation official website</a></li>
-        <li><a href="https://humanoid.robocup.org/">RoboCup Humanoid League</a></li>
+      <li><a href="https://citbrains.studio.site/en">CIT Brains website</a></li>
+      <li><a href="https://github.com/citbrains">CIT Brains GitHub</a></li>
+      <li><a href="https://www.robocup.org/">RoboCup Federation official website</a></li>
+      <li><a href="https://humanoid.robocup.org/">RoboCup Humanoid League</a></li>
     </ul>
   </P>
 </body>
