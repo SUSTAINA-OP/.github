@@ -94,13 +94,25 @@
   <h2>
     Publications
   </h2>
+  <h3>
+    Conference proceedings (peer-reviewed)
+  </h3>
   <p>
     <ul>
-        <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>      
+        <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>
+        <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP<sup>TM</sup>: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. 26th RoboCup International Symposium (in press)</li>
+    </ul>
+  </P>
+  <h3>
+    Conference proceedings (non-peer-reviewed)
+  </h3>
+  <p>
+    <ul>
+        <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>      
     </ul>
   </P>
   <h2>
-    Acknowledgements
+    Acknowledgments
   </h2>
   <p>
     SUSTAINA-OP<sup>TM</sup> is a robot that incorporates the know-how accumulated by past CIT Brains members participating in the RoboCup Humanoid League. Many CIT Brains members cooperated with us in the actual building of the robots. We also referred to many open-source hardware in designing and developing the robot. We would like to thank these people.
