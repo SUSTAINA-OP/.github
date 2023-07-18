@@ -73,6 +73,9 @@
     <a href="https://github.com/SUSTAINA-OP/A203-V2-Expansion-Board">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=A203-V2-Expansion-Board" />
     </a>
+    <a href="https://github.com/SUSTAINA-OP/IMU-Measurement-and-Transmission-Module">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=IMU-Measurement-and-Transmission-Module" />
+    </a>
   </p>
   <h4>
     RoboCup2022 Edition
