@@ -104,6 +104,7 @@
     <ul>
         <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>
         <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP<sup>TM</sup>: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. 26th RoboCup International Symposium (in press)</li>
+              <a href="https://github.com/SUSTAINA-OP/.github/files/12087982/26th.RoboCup.International.Symposium.Poster.pdf">Poster(PDF)</a>
     </ul>
   </P>
   <h3>
