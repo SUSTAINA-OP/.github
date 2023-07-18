@@ -10,7 +10,7 @@
     <image src="https://github.com/SUSTAINA-OP/.github/assets/53966390/7b5091e7-2190-424d-ae3a-13d850ef4622" width="640px" align="center">
   </P>
   <h1>
-    Welcome to the SUSTAINA-OP<sup>TM</sup> open source community!
+    Welcome to the SUSTAINA-OP<sup>TM</sup> open hardware platform community!
   </h1>
   <p>
     SUSTAINA-OP<sup>TM</sup> is the open hardware platform for the RoboCup Humanoid League KidSize. The robot was developed as a humanoid hardware platform with the objective of overcoming the barrier of high hardware development costs associated with participation in the RoboCup Humanoid League.
