@@ -35,6 +35,14 @@
     Contents of SUSTAINA-OP Open Hardware Platform
   </h2>
   <h3>
+    Specifications
+  </h3>
+  <p>
+    <ul>
+      <li><a href="./spec_robocup2023_ed.md">RoboCup2023 Edition</a></li>
+    </ul>
+  </p>
+  <h3>
     Mechanical Design
   </h3>
   <p>
