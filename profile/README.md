@@ -39,7 +39,7 @@
   </h3>
   <p>
     <ul>
-      <li><a href="./spec_robocup2023_ed.md">RoboCup2023 Edition</a></li>
+      <li><a href="https://github.com/SUSTAINA-OP/.github/blob/main/profile/spec_robocup2023_ed.md">RoboCup2023 Edition</a></li>
     </ul>
   </p>
   <h3>
