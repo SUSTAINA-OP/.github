@@ -120,7 +120,9 @@
   </h3>
   <p>
     <ul>
-        <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>      
+        <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>
+              <a href="https://github.com/SUSTAINA-OP/.github/files/12505160/robomech2023.pdf">Manuscript(PDF)</a> 
+              <a href="https://github.com/SUSTAINA-OP/.github/files/12505165/robomech2023_poster.pdf">Poster(PDF)</a>
     </ul>
   </P>
   <h2>
