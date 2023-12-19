@@ -123,6 +123,9 @@
         <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505160/robomech2023.pdf">Manuscript(PDF)</a> 
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505165/robomech2023_poster.pdf">Poster(PDF)</a>
+        <li>久保寺真仁，野口裕貴，井上叡，横尾陸，桑野雅久，林原靖男，"ロボカップ 2023 サッカー ヒューマノイドリーグに向けた自律型二足歩行ロボットの開発"，第24回計測自動制御学会システムインテグレーション部門講演会予稿集，3H2-01(2023)</li>
+              <a href="https://github.com/SUSTAINA-OP/.github/files/13710705/si2023.pdf">Manuscript(PDF)</a> 
+              <a href="https://github.com/SUSTAINA-OP/.github/files/13710704/SI2023_poster.pdf">Poster(PDF)</a>
     </ul>
   </P>
   <h2>
