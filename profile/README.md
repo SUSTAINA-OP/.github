@@ -52,56 +52,57 @@
   </p>
   <h3>
     Electrical Design
-  </h3>
-  <h4>
-    RoboCup2023 Edition
-  </h4>
-  <p>
-    <a href="https://github.com/SUSTAINA-OP/USB-to-Quad-RS-485-Conv-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-to-Quad-RS-485-Conv-Module" />
-    </a>  
-    <a href="https://github.com/SUSTAINA-OP/Power-Monitor-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Power-Monitor-Module" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/USB-HID-Control-Switches-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-HID-Control-Switches-Module" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/Buck-Boost-Switch-Mode-Power-Supply-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Buck-Boost-Switch-Mode-Power-Supply-Module" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/Quad-Load-Cell-Amplifier-to-RS-485-Conv-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Quad-Load-Cell-Amplifier-to-RS-485-Conv-Module" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/ICM-42688-P-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=ICM-42688-P-Module" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/SUSTAINA-Core-Board">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=SUSTAINA-Core-Board" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/A203-V2-Expansion-Board">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=A203-V2-Expansion-Board" />
-    </a>
-    <a href="https://github.com/SUSTAINA-OP/IMU-Measurement-and-Transmission-Module">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=IMU-Measurement-and-Transmission-Module" />
-    </a>
-  </p>
-  <h4>
-    RoboCup2022 Edition
-  </h4>
-  <p>
-    <details close>
-      <summary><b>Check details</b></summary>
-        <a href="https://github.com/SUSTAINA-OP/MainBoard_ver2_2">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=MainBoard_ver2_2" />
-        </a>
-        <a href="https://github.com/SUSTAINA-OP/EN715_ExpansionBoard_ver1_1">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=EN715_ExpansionBoard_ver1_1" />
-        </a>
-        <a href="https://github.com/SUSTAINA-OP/StartStopSwitch_ver3_0">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=StartStopSwitch_ver3_0" />
-        </a>
-    </details>
-  </p>
+  </h3>      
+    <ul>
+      <li>RoboCup2023 Edition</li>
+        <p>
+        <details close>      
+        <summary><b>Check details</b></summary>
+          <a href="https://github.com/SUSTAINA-OP/USB-to-Quad-RS-485-Conv-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-to-Quad-RS-485-Conv-Module" />
+          </a>  
+          <a href="https://github.com/SUSTAINA-OP/Power-Monitor-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Power-Monitor-Module" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/USB-HID-Control-Switches-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=USB-HID-Control-Switches-Module" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/Buck-Boost-Switch-Mode-Power-Supply-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Buck-Boost-Switch-Mode-Power-Supply-Module" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/Quad-Load-Cell-Amplifier-to-RS-485-Conv-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=Quad-Load-Cell-Amplifier-to-RS-485-Conv-Module" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/ICM-42688-P-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=ICM-42688-P-Module" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/SUSTAINA-Core-Board">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=SUSTAINA-Core-Board" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/A203-V2-Expansion-Board">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=A203-V2-Expansion-Board" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/IMU-Measurement-and-Transmission-Module">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=IMU-Measurement-and-Transmission-Module" />
+          </a>      
+        </details>
+        </p>
+      <li>RoboCup2022 Edition</li>
+        <p>
+        <details close>
+        <summary><b>Check details</b></summary>
+          <a href="https://github.com/SUSTAINA-OP/MainBoard_ver2_2">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=MainBoard_ver2_2" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/EN715_ExpansionBoard_ver1_1">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=EN715_ExpansionBoard_ver1_1" />
+          </a>
+          <a href="https://github.com/SUSTAINA-OP/StartStopSwitch_ver3_0">
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=SUSTAINA-OP&repo=StartStopSwitch_ver3_0" />
+          </a>
+        </details>
+        </p>
+    </ul>
   <h2>
     Publications
   </h2>
@@ -123,6 +124,7 @@
         <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505160/robomech2023.pdf">Manuscript(PDF)</a> 
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505165/robomech2023_poster.pdf">Poster(PDF)</a>
+      <a href="https://doi.org/10.1299/jsmermd.2023.2A1-A15">J-STAGE</a>
         <li>久保寺真仁，野口裕貴，井上叡，横尾陸，桑野雅久，林原靖男，"ロボカップ 2023 サッカー ヒューマノイドリーグに向けた自律型二足歩行ロボットの開発"，第24回計測自動制御学会システムインテグレーション部門講演会予稿集，3H2-01(2023)</li>
               <a href="https://github.com/SUSTAINA-OP/.github/files/13710705/si2023.pdf">Manuscript(PDF)</a> 
               <a href="https://github.com/SUSTAINA-OP/.github/files/13710704/SI2023_poster.pdf">Poster(PDF)</a>
