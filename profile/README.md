@@ -104,16 +104,19 @@
         </p>
     </ul>
   <h2>
-    Publications
+    Reference & Citation
   </h2>
+      To reference and/or cite the work contained in this repository, please use the following publications:
   <h3>
     Conference proceedings (peer-reviewed)
   </h3>
   <p>
     <ul>
-        <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>
-        <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP<sup>TM</sup>: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. 26th RoboCup International Symposium (in press)</li>
+        <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>      
+              <a href="https://link.springer.com/chapter/10.1007/978-3-031-28469-4_18">Springer Nature</a>
+        <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP<sup>TM</sup>: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. RoboCup 2023: Robot World Cup XXVI, pp.166–178 (2024)</li>
               <a href="https://github.com/SUSTAINA-OP/.github/files/12087982/26th.RoboCup.International.Symposium.Poster.pdf">Poster(PDF)</a>
+              <a href="https://link.springer.com/chapter/10.1007/978-3-031-55015-7_14">Springer Nature</a>
     </ul>
   </P>
   <h3>
