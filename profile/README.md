@@ -10,10 +10,10 @@
     <image src="https://github.com/SUSTAINA-OP/.github/assets/53966390/7b5091e7-2190-424d-ae3a-13d850ef4622" width="640px" align="center">
   </P>
   <h1>
-    Welcome to the SUSTAINA-OP<sup>TM</sup> open hardware platform community!
+    Welcome to the SUSTAINA-OP&trade; open hardware platform community!
   </h1>
   <p>
-    SUSTAINA-OP<sup>TM</sup> is the open hardware platform for the RoboCup Humanoid League KidSize. The robot was developed as a humanoid hardware platform with the objective of overcoming the barrier of high hardware development costs associated with participation in the RoboCup Humanoid League.
+    SUSTAINA-OP&trade; is the open hardware platform for the RoboCup Humanoid League KidSize. The robot was developed as a humanoid hardware platform with the objective of overcoming the barrier of high hardware development costs associated with participation in the RoboCup Humanoid League.
   </P>
   <h2>
     Development Members
@@ -27,7 +27,30 @@
             <a href="https://twitter.com/CreateRoboCup"><img src="https://img.shields.io/twitter/follow/CreateRoboCup?label=&style=social"></a>
         </dt>
         <dd>
-            Hardware (Mechanical / Electrical) design for SUSTAINA-OP<sup>TM</sup>
+            Hardware (Mechanical / Electrical) design for SUSTAINA-OP&trade;
+        </dd>
+        <dt>
+            Satoshi Inoue
+            <a href="https://github.com/AD58-3104"><img src="https://img.shields.io/github/followers/AD58-3104?label=&style=social"></a>
+        </dt>
+        <dd>
+            Firmware development of sub-microcontrollers for SUSTAINA-OP&trade;<br>
+            Webots simulator development for SUSTAINA-OP&trade;
+        </dd>
+        <dt>
+            Hiroki Noguchi
+            <a href="https://github.com/hiroki-0001"><img src="https://img.shields.io/github/followers/hiroki-0001?label=&style=social"></a>
+        </dt>
+        <dd>
+            Firmware development of sub-microcontrollers for SUSTAINA-OP&trade;<br>
+            Webots simulator development for SUSTAINA-OP&trade;
+        </dd>
+        <dt>
+            Riku Yokoo
+            <a href="https://github.com/RikuYokoo"><img src="https://img.shields.io/github/followers/RikuYokoo?label=&style=social"></a>
+        </dt>
+        <dd>
+            Firmware development of sub-microcontrollers for SUSTAINA-OP&trade;
         </dd>
     </dl>
   </P>
@@ -114,7 +137,7 @@
     <ul>
         <li>Hayashibara, Y., Kubotera, M., Kambe, H., Kuwano, G., Sato, D., Noguchi, H., Yokoo, R,. Inoue, S., Mibuchi, Y. and Irie, K.: RoboCup2022 KidSize League Winner CIT Brains: Open Platform Hardware SUSTAINA-OP and Software. RoboCup 2022: Robot World Cup XXV, pp.215–227 (2023)</li>      
               <a href="https://link.springer.com/chapter/10.1007/978-3-031-28469-4_18">Springer Nature</a>
-        <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP<sup>TM</sup>: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. RoboCup 2023: Robot World Cup XXVI, pp.166–178 (2024)</li>
+        <li>Kubotera, M. and Hayashibara, Y.: SUSTAINA-OP&trade;: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability. RoboCup 2023: Robot World Cup XXVI, pp.166–178 (2024)</li>
               <a href="https://github.com/SUSTAINA-OP/.github/files/12087982/26th.RoboCup.International.Symposium.Poster.pdf">Poster(PDF)</a>
               <a href="https://link.springer.com/chapter/10.1007/978-3-031-55015-7_14">Springer Nature</a>
     </ul>
@@ -137,7 +160,7 @@
     Acknowledgments
   </h2>
   <p>
-    SUSTAINA-OP<sup>TM</sup> is a robot that incorporates the know-how accumulated by past CIT Brains members participating in the RoboCup Humanoid League. Many CIT Brains members cooperated with us in the actual building of the robots. We also referred to many open-source hardware in designing and developing the robot. We would like to thank these people.
+    SUSTAINA-OP&trade; is a robot that incorporates the know-how accumulated by past CIT Brains members participating in the RoboCup Humanoid League. Many CIT Brains members cooperated with us in the actual building of the robots. We also referred to many open-source hardware in designing and developing the robot. We would like to thank these people.
   </P>
   <h2>
     License Information
@@ -151,25 +174,14 @@
   <p>
       <ul>
         <li>
-          SUSTAINA-OP<sup>TM</sup> is a hardware platform humanoid robot whose design data, etc. are open-sourced as much as possible to advance the field of robotics, such as RoboCup Humanoid League.<br>
+          SUSTAINA-OP&trade; is a hardware platform humanoid robot whose design data, etc. are open-sourced as much as possible to advance the field of robotics, such as RoboCup Humanoid League.<br>
           Therefore, in addition to the license When publishing artifacts using this platform, I would like to request to clearly state that this platform has been used.<br>
           Also, I would like to hope that the artifacts will also be released as open source for the advancement of robotics.
         </li>
         <li>
-          The developer of SUSTAINA-OP<sup>TM</sup> is currently at the Chiba Institute of Technology.
-          Anyone enrolled at or associated with the Chiba Institute of Technology who wishes to use SUSTAINA-OP<sup>TM</sup> deliverables for research, distribution, etc., must inquire before using the deliverables.
+          The developer of SUSTAINA-OP&trade; is currently at the Chiba Institute of Technology.
+          Anyone enrolled at or associated with the Chiba Institute of Technology who wishes to use SUSTAINA-OP&trade; deliverables for research, distribution, etc., must inquire before using the deliverables.
         </li>
   </p>
-  <h2>
-    Further More
-  </h2>
-  <p>
-    <ul>
-      <li><a href="https://citbrains.studio.site/en">CIT Brains website</a></li>
-      <li><a href="https://github.com/citbrains">CIT Brains GitHub</a></li>
-      <li><a href="https://www.robocup.org/">RoboCup Federation official website</a></li>
-      <li><a href="https://humanoid.robocup.org/">RoboCup Humanoid League</a></li>
-    </ul>
-  </P>
 </body>
 </html>
