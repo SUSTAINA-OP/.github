@@ -148,12 +148,16 @@
   <p>
     <ul>
         <li>久保寺真仁，林原靖男，"SUSTAINA-OP : ロボカップ用キッドサイズ ハードウェアプラットフォーム ヒューマノイドロボット"，日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，2A1-A15(2023)</li>
+              Kubotera, M. and Hayashibara, Y.:SUSTAINA-OP : Kid-sized Open Hardware Platform Humanoid Robot for RoboCup. ROBOMECH2023, 2A1-A15(2023)<br>
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505160/robomech2023.pdf">Manuscript(PDF)</a> 
               <a href="https://github.com/SUSTAINA-OP/.github/files/12505165/robomech2023_poster.pdf">Poster(PDF)</a>
       <a href="https://doi.org/10.1299/jsmermd.2023.2A1-A15">J-STAGE</a>
         <li>久保寺真仁，野口裕貴，井上叡，横尾陸，桑野雅久，林原靖男，"ロボカップ 2023 サッカー ヒューマノイドリーグに向けた自律型二足歩行ロボットの開発"，第24回計測自動制御学会システムインテグレーション部門講演会予稿集，3H2-01(2023)</li>
+              Kubotera, M. Noguchi, H. Inoue, S. Yokoo, R. Kuwano, G. and Hayashibara, Y.: Development of the Autonomous Bipedal Robot for the RoboCup 2023 Soccer Humanoid League. SI2023, 3H2-01(2023)<br>
               <a href="https://github.com/SUSTAINA-OP/.github/files/13710705/si2023.pdf">Manuscript(PDF)</a> 
               <a href="https://github.com/SUSTAINA-OP/.github/files/13710704/SI2023_poster.pdf">Poster(PDF)</a>
+        <li>久保寺真仁，野口裕貴，井上叡，林原靖男，"SUSTAINA-OP&trade;: 持続可能性を重視した子供サイズのオープンハードウェアプラットフォームヒューマノイドロボット―ハードウェアの更新・評価とシミュレーションモデルの公開―"，日本機械学会ロボティクス・メカトロニクス講演会'24予稿集，2P2-T07(2024)</li>
+              Kubotera, M. Noguchi, H. Inoue, S. and Hayashibara, Y.: SUSTAINA-OP&trade;: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability -Update and Evaluate Hardware, and Release Simulation Model-. ROBOMECH2024, 2P2-T07(2024)<br>
     </ul>
   </P>
   <h2>
@@ -166,7 +170,7 @@
     License Information
   </h2>
   <p>
-    Please check the license for each repository before use.
+    Please confirm the license for each repository before use.
   </p>
   <h3>
     Request
