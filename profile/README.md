@@ -158,7 +158,8 @@
               <a href="https://github.com/SUSTAINA-OP/.github/files/13710704/SI2023_poster.pdf">Poster(PDF)</a>
         <li>久保寺真仁，野口裕貴，井上叡，林原靖男，"SUSTAINA-OP&trade;: 持続可能性を重視した子供サイズのオープンハードウェアプラットフォームヒューマノイドロボット―ハードウェアの更新・評価とシミュレーションモデルの公開―"，日本機械学会ロボティクス・メカトロニクス講演会'24予稿集，2P2-T07(2024)</li>
               Kubotera, M. Noguchi, H. Inoue, S. and Hayashibara, Y.: SUSTAINA-OP&trade;: Kid-sized Open Hardware Platform Humanoid Robot with Emphasis on Sustainability -Update and Evaluate Hardware, and Release Simulation Model-. ROBOMECH2024, 2P2-T07(2024)<br>
-    </ul>
+              <a href="https://github.com/SUSTAINA-OP/.github/files/15492797/robomech2024.pdf">Manuscript(PDF)</a> 
+              <a href="https://github.com/SUSTAINA-OP/.github/files/15492799/ROBOMECH2024-Poster.pdf">Poster(PDF)</a>      　　</ul>
   </P>
   <h2>
     Acknowledgments
