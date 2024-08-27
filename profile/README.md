@@ -1,5 +1,5 @@
-<p >
-  <img src="https://github.com/SUSTAINA-OP/.github/assets/53966390/7b5091e7-2190-424d-ae3a-13d850ef4622" width="640px">
+<p align="center">
+  <img src="/profile/images/SUSTAINA-OP.jpg" width="640px">
 </p>
   
 # Welcome to the SUSTAINA-OP&trade; Series Open Hardware Platform Community!
@@ -9,13 +9,15 @@ The SUSTAINA-OP&trade; series is a customizable kid-sized open hardware platform
 SUSTAINA-OP&trade; (RoboCup2022 Edition) is used by CIT Brains, a team competing in the RoboCup Humanoid League KidSize category, and they became world champions at RoboCup 2022 in Bangkok, Thailand.
 
 <p align="center">
-  <img src="https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-6/292520588_997070844318833_4094320543203317262_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=TDkFikLyCCEQ7kNvgGyDu35&_nc_ht=scontent-nrt1-2.xx&oh=00_AYB216BVmvo0zjwPyn2IoSQd1fzas20Otm48x8Le4ndncw&oe=66C3B20B" width="320px"> <br>
+  <img src="/profile/images/RoboCup2022-Final.png" width="320px"> <br>
   RoboCup2022 Soccer Humanoid League KidSize Final vs. Rhoban Football Club (France) <a href="https://youtu.be/zXyxvgWSAdQ">video</a>
 </P>
+
+For information about its successor SUSTAINA-OP2&trade;, click here: https://github.com/SUSTAINA-OP2
  
 ## Contents
  
-The open sources for SUSTAINA-OP2&trade; are the following elements: 
+The open sources for SUSTAINA-OP&trade; are the following elements: 
 
 - **Mechanical Design** — 3D models designed in Autodesk Inventor, etc: [SUSTAINA-OP](https://github.com/SUSTAINA-OP/SUSTAINA-OP)
 
@@ -36,7 +38,7 @@ The open sources for SUSTAINA-OP2&trade; are the following elements:
     - [EN715_ExpansionBoard_ver1_1](https://github.com/SUSTAINA-OP/EN715_ExpansionBoard_ver1_1)
     - [StartStopSwitch_ver3_0](https://github.com/SUSTAINA-OP/StartStopSwitch_ver3_0)
     
-- **Simulator** — Simulation environment for SUSTAINA-OP&trade; (RoboCup2022 Edition) in Webots: [SUSTAINA-OP_Webots](https://github.com/SUSTAINA-OP/SUSTAINA-OP_Webots)
+- **Simulator** — Simulation environment for SUSTAINA-OP&trade; (RoboCup2023 Edition) in Webots: [SUSTAINA-OP_Webots](https://github.com/SUSTAINA-OP/SUSTAINA-OP_Webots)
 
 ## References & Citation
 
